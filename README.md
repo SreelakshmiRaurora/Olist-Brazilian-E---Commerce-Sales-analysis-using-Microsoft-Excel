@@ -4,6 +4,9 @@ Interactive Excel Dashboard analyzing the Olist Brazilian E-Commerce dataset usi
 ## PROJECT OVERVIEW
 This project analyzes the Olist Brazilian E-Commerce dataset using Microsoft Excel.The dashboard provides interactive insights into sales performance, customer behavior, payment methods, product categories and regional revenue trends.
 
+## DATASET USED
+- <a href= "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com">Dataset</a>
+
 ## TOOLS USED
 Microsoft Excel , Power Query , Pivot tables ,Pivot charts , KPI Cards ,Slicers
 
