@@ -6,6 +6,7 @@ This project analyzes the Olist Brazilian E-Commerce dataset using Microsoft Exc
 
 ## DATASET USED
 - <a href= "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com">Dataset</a>
+- <a href= "Olist Brazilian E-Commerce dataset.xlsx">Excel file file after merging,cleaning and transforming data</a>
 
 ## TOOLS USED
 Microsoft Excel , Power Query , Pivot tables ,Pivot charts , KPI Cards ,Slicers
