@@ -5,6 +5,7 @@ This project analyzes the Olist Brazilian E-Commerce dataset using Microsoft Exc
 
 ##TOOLS USED
 Microsoft Excel , Power Query , Pivot tables ,Pivot charts , KPI Cards ,Slicers
+
 ##DASHBOARD FEATURES
 Total Revenue KPI
 Total Orders KPI
