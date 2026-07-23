@@ -1,5 +1,6 @@
 # Olist-Brazilian-E-Commerce-Sales-analysis-using-Microsoft-Excel
 Interactive Excel Dashboard analyzing the Olist Brazilian E-Commerce dataset using power query,pivot tables,KPI cards , and slicers. 
+
 ## PROJECT OVERVIEW
 This project analyzes the Olist Brazilian E-Commerce dataset using Microsoft Excel.The dashboard provides interactive insights into sales performance, customer behavior, payment methods, product categories and regional revenue trends.
 
