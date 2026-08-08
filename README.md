@@ -24,7 +24,7 @@ Payment Method Analysis
 Interactive year , Month and state slicers
 
 ## Dashboard Preview
-![Dashboard](
+![Dashboard](https://github.com/SreelakshmiRaurora/Olist-Brazilian-E---Commerce-Sales-analysis-using-Microsoft-Excel/blob/main/Screenshot%202026-07-22%20203123.png?raw=true)
 
 ## KEY INSIGHTS
 Sao Paulo(SP) generated the highest revenue.
