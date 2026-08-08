@@ -23,6 +23,9 @@ Revenue by year
 Payment Method Analysis
 Interactive year , Month and state slicers
 
+## Dashboard Preview
+![Dashboard](
+
 ## KEY INSIGHTS
 Sao Paulo(SP) generated the highest revenue.
 Health & Beauty was the highest performing product category
